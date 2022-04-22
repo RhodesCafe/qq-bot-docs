@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /rdoc2.png
+heroImage: /rdoc3.png
 features:
 - title: 文档&FAQ
   details: 整合各方文档，为开发者带来一站式浏览体验，并提供常见问题解答

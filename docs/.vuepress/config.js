@@ -49,9 +49,10 @@ module.exports = {
     },
     plugins: [
         '@vuepress/back-to-top',
-        'l@vuepress/last-updated',
+        '@vuepress/last-updated',
         'fulltext-search'
     ],
+    dest: 'dist',
     host: 'localhost',
     port: 8080
 }
