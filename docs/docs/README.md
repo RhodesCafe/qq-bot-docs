@@ -2,16 +2,12 @@
 title: 官方文档
 ---
 
-## 平台
-
-[Bot平台](https://bot.q.qq.com/)  
-[小程序平台](https://q.qq.com/)
-
 ## 文档
 
 [Bot文档](https://bot.q.qq.com/wiki/)  
+[Bot后台](https://q.qq.com/)  
 [小程序文档](https://q.qq.com/wiki/)  
-[开发者赋能课堂ppt](/resource)
+[开发者赋能直播课堂](/resource/file/creator-ability-lesson.html) 
 
 ## 申请收集表
 

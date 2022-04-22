@@ -12,7 +12,12 @@ sidebar: auto
 <h2>第三方开源SDK</h2>
 
 ::: warning
-以下SDK均由第三方提供，可能过时，请以实际为准！
+以下SDK均由第三方提供，可能过时，请以实际为准！[反馈过时SDK](/about/contact.html#反馈)
+
+:::
+
+::: tip
+[想添加自己的SDK？](/about/contact.html#sdk)
 :::
 
  ## c#
