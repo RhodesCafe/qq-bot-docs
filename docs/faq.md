@@ -18,3 +18,7 @@ sidebar: auto
  ## 提审时是沙箱模式吗
  
  - 不是，需要在正式环境运行bot
+ 
+ ## 支持@/at吗
+ 
+ - 支持，详见[文档](https://bot.q.qq.com/wiki/develop/api/openapi/message/message_format.html#%E6%94%AF%E6%8C%81%E7%9A%84%E6%A0%BC%E5%BC%8F)
