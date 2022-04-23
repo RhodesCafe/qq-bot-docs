@@ -5,7 +5,7 @@ sidebar: auto
 
 ::: tip 前言
 感谢下列bot开发者选择开源，请想学习/借鉴的开发者遵守相应的开源协议  
-[什么是开源协议](/docs/open_source_protocol.html)
+[什么是开源协议](/docs/third/open_source_protocol.html)
 :::
 
 ::: tip
