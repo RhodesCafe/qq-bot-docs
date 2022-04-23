@@ -24,7 +24,9 @@ title: qq小程序内容安全检测
   - secret -> [机器人后台](https://q.qq.com/bot/#/developer/developer-setting) - 机器人密钥
   
 ::: tip
-  asscss_token作为全局凭证，不应在单个程序中单独获取，应由中央服务器统一调控。[示例代码（php）](#access-token中央服务器代码示例)
+如果只在一个程序中调用接口，请忽视此tip  
+access_token作为全局凭证，不应在单个程序中单独获取，应由中控服务器统一调控。[官方建议*](https://q.qq.com/wiki/develop/miniprogram/server/open_port/port_use.html#access-token-%E7%9A%84%E5%AD%98%E5%82%A8%E4%B8%8E%E6%9B%B4%E6%96%B0)  
+[示例代码（php）](#access-token中控服务器代码示例)
 :::
  
   ## step.2 调用接口
@@ -35,7 +37,7 @@ title: qq小程序内容安全检测
  所有POST接口数据提交方式均为json，请确保传参正确
  :::
   
- ## access_token中央服务器示例代码
+ ## access_token中控服务器示例代码
 服务端：php
   
 | 参数 | 类型 | 位置 | 说明 |
