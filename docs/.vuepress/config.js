@@ -2,6 +2,9 @@ module.exports = {
     base: '/wiki/',
     title: '罗德文档',
     description: '共建良好开发生态',
+    head: [
+        ['link', {rel: 'icon', href: '/rdoc3.png'}],
+    ],
     themeConfig: {
         nav: [
             {text: '主页', link: '/'},
@@ -49,20 +52,50 @@ module.exports = {
                 }
             ]
         },
+        lastUpdated: '上次更新',
         logo: '/rdoc.ico.png',
         repo: 'RhodesCafe/qq-bot-docs',
         repoLabel: 'Github',
+        editLinks: true,
+        editLinkText: '在GitHub上编辑此页',
+        docsBranch: 'main',
         docsDir: 'docs'
     },
-    plugins: [
-        '@vuepress/back-to-top',
-        '@vuepress/last-updated',
-        'fulltext-search'
-    ],
-    markdown: {
-        lineNumbers: true
-    },
+    plugins:
+        [
+            '@vuepress/back-to-top',
+            '@vuepress/last-updated',
+            'fulltext-search',
+            [
+                'one-click-copy', // 代码块复制按钮
+                {
+                    copySelector: ['div[class*="language-"] pre', 'div[class*="aside-code"] aside'],
+                    copyMessage: 'Copied！',
+                    duration: 1000,
+                    showInMobile: false,
+                },
+            ],
+            [
+                '@vuepress/pwa',
+                {
+                    serviceWorker: true,
+                    updatePopup: {
+                        '/': {
+                            message: '发现新内容可用~',
+                            buttonText: '刷新',
+                        },
+                    },
+                },
+            ]
+        ],
+    markdown:
+        {
+            lineNumbers: true
+        }
+    ,
     dest: 'dist',
-    host: 'localhost',
-    port: 8080
+    host:
+        'localhost',
+    port:
+        8080
 }
