@@ -59,6 +59,9 @@ module.exports = {
         '@vuepress/last-updated',
         'fulltext-search'
     ],
+    markdown: {
+        lineNumbers: true
+    },
     dest: 'dist',
     host: 'localhost',
     port: 8080
