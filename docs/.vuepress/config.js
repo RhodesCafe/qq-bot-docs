@@ -8,6 +8,7 @@ module.exports = {
             {text: '文档', link: '/docs/'},
             {text: "FAQ", link: "/faq"},
             {text: "SDK", link: "/sdk"},
+            {text: "BOT", link: "/bot"},
             {text: "资源", link: "/resource/"},
             {
                 text: "关于", items: [
@@ -21,7 +22,13 @@ module.exports = {
         sidebar: {
             '/docs/': [
                 ['/docs/', '官方'],
-                ['/docs/third.html', '第三方'],
+                {
+                    title: '第三方',
+                    path: '/docs/third/',
+                    children: [
+                        ['/docs/third/open_source_protocol.html', '开源协议简介']
+                    ]
+                },
                 ['/docs/other.html', '其他']
             ],
             '/resource/': [

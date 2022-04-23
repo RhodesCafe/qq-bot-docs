@@ -12,4 +12,5 @@ title: 第三方文档
 
 ## 文档
 
-还没有文档接入...
+
+[开源协议介绍](/docs/third/open_source_protocol.html)  
