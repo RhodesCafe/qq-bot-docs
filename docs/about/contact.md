@@ -37,6 +37,7 @@
  ## 联系
  
  - QQ频道开发者社区-“个体-缪”
+ - QQ频道开发者社区 [帖子链接](https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=WEhLR&appChannel=share&contentID=MQ2w&businessType=2&from=246610&biz=ka&shareSource=5)
  - github提交PR
  
  添加与反馈会在三个工作日内完成，请耐心等待
