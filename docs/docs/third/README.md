@@ -1,5 +1,7 @@
 ---
 title: 第三方文档
+prev: /docs/
+next: ../other.html
 ---
 
 ::: warning
