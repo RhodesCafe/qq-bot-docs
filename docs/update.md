@@ -1,6 +1,7 @@
 ---
 title: 更新日志
 sidebar: auto
+editLink: false
 ---
 
  ## 2022-4-23

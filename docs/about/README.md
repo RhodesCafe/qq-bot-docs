@@ -1,5 +1,6 @@
 ---
 title: 站点简介
+editLink: false
 ---
 
  ## 罗德文档
