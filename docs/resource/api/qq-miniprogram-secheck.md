@@ -35,7 +35,7 @@ title: qq小程序内容安全检测
  所有POST接口数据提交方式均为json，请确保传参正确
  :::
   
- ## access_token中央服务器代码示例
+ ## access_token中央服务器示例代码
 服务端：php
   
 | 参数 | 类型 | 位置 | 说明 |
