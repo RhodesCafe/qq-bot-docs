@@ -11,7 +11,7 @@ module.exports = {
             {text: "资源", link: "/resource/"},
             {
                 text: "关于", items: [
-                    {text: '站点简介', link: '/about/README.md'},
+                    {text: '站点简介', link: '/about/index.html'},
                     {text: '添加内容', link: '/about/contact.html'}
                 ]
 
