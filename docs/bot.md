@@ -18,3 +18,4 @@ sidebar: auto
 | ------- |:----:| ----:|:-------:|
 | [值班小助理](https://github.com/tencent-connect/bot-onduty) | tencent-connect* | 4 | MIT |
 | [象棋大师](https://github.com/wzpan/chinese-chess-bot) | wzpan | 4 | View |
+| [疫情助手](https://github.com/robot-nian/COVID-Bot) | robot_nian | 2 | MIT |
