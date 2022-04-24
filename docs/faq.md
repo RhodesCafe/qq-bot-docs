@@ -22,3 +22,7 @@ sidebar: auto
  ## 支持@/at吗
  
  - 支持，示例：content:`这是一条AT<@114514>` 展示:`这是一条AT@田所浩二` 其中`114514` 为 用户`田所浩二`的User_id。 详见[官方文档:内嵌格式](https://bot.q.qq.com/wiki/develop/api/openapi/message/message_format.html#%E6%94%AF%E6%8C%81%E7%9A%84%E6%A0%BC%E5%BC%8F)
+ 
+ ## 沙箱环境无法接收私信消息
+ 
+ - 目前沙箱环境不支持私信，需切换到正式环境进行开发
