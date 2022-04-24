@@ -3,7 +3,7 @@ module.exports = {
     title: '罗德文档',
     description: '共建良好开发生态',
     head: [
-        ['link', {rel: 'icon', href: '/rdoc3.png'}],
+        ['link', {rel: 'icon', href: '/rdoc.ico.png'}],
     ],
     themeConfig: {
         nav: [
