@@ -4,6 +4,10 @@ sidebar: auto
 editLink: false
 ---
 
+ ## 2022-4-24
+ 
+ - feat: 增加插件 pwa、代码块复制
+
  ## 2022-4-23
  
  - feat: 添加BOT
