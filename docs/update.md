@@ -6,9 +6,11 @@ editLink: false
 
  ## 2022-4-23
  
- - `feat` 添加[BOT](/bot.html)
- - `docs` 新增[开源协议介绍](/docs/third/open_source_protocol.html)
- - `docs` 在[SDK](/sdk.html)中添加`开源协议`项
+ - feat: 添加BOT
+ - feat: 联系方式增加帖子链接
+ - docs: 新增开源协议介绍
+ - docs: 在SDK中添加`开源协议`项
+ - docs: 完善qq小程序内容安全文档
  
  ## 2022-4-22
  
