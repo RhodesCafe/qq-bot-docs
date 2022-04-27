@@ -21,8 +21,8 @@ next: ./third/
  
  ## 干货补给站
 
-[QQ机器人如何上热门](https://docs.qq.com/slide/DVU51RmlQdWJhd0RP)
-[开启机器人的“特异功能”](https://docs.qq.com/slide/DVXBEeUtuSUlsZXFt)
+[QQ机器人如何上热门](https://docs.qq.com/slide/DVU51RmlQdWJhd0RP)  
+[开启机器人的“特异功能”](https://docs.qq.com/slide/DVXBEeUtuSUlsZXFt)  
 [如何提升审核效率](https://docs.qq.com/slide/DVU12YWNCakhib1B0)
  
  ## 申请收集表
