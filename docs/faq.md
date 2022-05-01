@@ -21,7 +21,7 @@ sidebar: auto
  
  ## 无法提审 (机器人审核中或功能配置与测试报告没有修改)
  
- - 请确保 [功能配置与提审](https://q.qq.com/bot/#/developer/publish-config)中 `功能配置` 与 `自测报告` 旁没有红色叹号，如果无需修改，请点击编辑后原样保存，这是允许的逻辑
+ - 请确保 [功能配置与提审](https://q.qq.com/bot/#/developer/publish-config)中 `功能配置` 与 `自测报告` 旁没有红色叹号，如果无需修改，请点击编辑后原样保存
 
  ## 有关提审的建议
  
