@@ -19,3 +19,7 @@ editLink: false
  ## 鸣谢
  
  - 倩雪 为文档提供了初始的内容
+ 
+ ## 支持
+
+ - [爱发电](https://afdian.net/@rdocs)

@@ -33,6 +33,6 @@ Github上没注明开源协议的代码是不能随便抄的！
 | AGPL | 即便不发布在网络，仅作为后台代码，也需要开源 |
 
  ## 如何选择开源协议
- 在[阮一峰](http://www.ruanyifeng.com/blog/)大佬的基础上重新绘图
+ 在阮一峰大佬的基础上重新绘图
  
  <img :src="$withBase('/how_to_choose_osp.png')" alt="如何选择开源协议">
