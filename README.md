@@ -2,7 +2,7 @@
 
 qq-bot内容合集，涵盖 文档/FAQ/SDK/资源。
 
-基于[vuepress](https://vuepress.vuejs.org/zh/)构建。应文档网站是 [https://qqbotdoc.rhodescafe.net/wiki/](https://qqbotdoc.rhodescafe.net/wiki/)
+基于[vuepress](https://vuepress.vuejs.org/zh/)构建。对应文档网站是 [https://qqbotdoc.rhodescafe.net/wiki/](https://qqbotdoc.rhodescafe.net/wiki/)
 
  ## 联系
   
@@ -11,3 +11,7 @@ qq-bot内容合集，涵盖 文档/FAQ/SDK/资源。
  
  ## 鸣谢
  [tencent-connect/bot-docs](https://github.com/tencent-connect/bot-docs) 配置文件简明好抄 😃👍
+ 
+  ## 支持
+
+ - [爱发电](https://afdian.net/@rdocs)
