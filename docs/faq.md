@@ -28,7 +28,7 @@ sidebar: auto
  - 最好记录日志，根据日志和测试人员的反馈结果调整代码，不要凭空臆想
  - 自测报告中一定要完整展示机器人逻辑，不能因麻烦而不写
  
- ## 支持@/at吗
+ ## 机器人支持@/at吗
  
  - 支持，示例：content:`这是一条AT<@114514>` 展示:`这是一条AT@田所浩二` 其中`114514` 为 用户`田所浩二`的User_id。 详见[官方文档:内嵌格式](https://bot.q.qq.com/wiki/develop/api/openapi/message/message_format.html#%E6%94%AF%E6%8C%81%E7%9A%84%E6%A0%BC%E5%BC%8F)
  
