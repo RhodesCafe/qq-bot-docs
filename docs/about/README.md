@@ -22,6 +22,6 @@ editLink: false
  
  ## 支持
  
-目前的支持费用主要是一个[轻量服务器](https://console.cloud.tencent.com/lighthouse/instance/index)，上行在30Mbps，只部署了这一个站点，以及域名的续费，总体费用还在可接受范围内
+目前的支持费用主要是一个轻量服务器，上行在30Mbps，只部署了这一个站点，以及域名的续费，总体费用还在可接受范围内
 
  - [爱发电](https://afdian.net/@rdocs)
