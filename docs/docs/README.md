@@ -27,5 +27,4 @@ next: ./third/
  
  ## 申请收集表
 
-[额外沙箱频道申请](https://docs.qq.com/form/page/DSmF1SEVoU1lDckVS)  
 [Bot/小程序接口申请](https://docs.qq.com/form/page/DQWNQb3RQeVJYaGZl)
