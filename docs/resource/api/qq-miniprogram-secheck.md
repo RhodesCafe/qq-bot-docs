@@ -26,16 +26,17 @@ title: qq小程序内容安全检测
 ::: tip
 如果只在一个程序中调用接口，请忽视此tip  
 access_token作为全局凭证，不应在单个程序中单独获取，应由中控服务器统一调控。[官方建议*](https://q.qq.com/wiki/develop/miniprogram/server/open_port/port_use.html#access-token-%E7%9A%84%E5%AD%98%E5%82%A8%E4%B8%8E%E6%9B%B4%E6%96%B0)  
-[示例代码（php）](#access-token中控服务器代码示例)
+[示例代码（php）](#access_token中控服务器示例代码)
 :::
  
   ## step.2 调用接口
   
   [文档地址](https://q.qq.com/wiki/develop/miniprogram/server/open_port/port_safe.html)
   
- ::: warning
- 所有POST接口数据提交方式均为json，请确保传参正确
- :::
+::: warning
+文本接口提交方式为 `application/json`  
+图片接口提交方式为 `multipart/form-data`
+:::
   
  ## access_token中控服务器示例代码
 服务端：php
