@@ -93,7 +93,7 @@ module.exports = {
             lineNumbers: true
         }
     ,
-    dest: 'dist',
+    dest: 'wiki',
     host:
         'localhost',
     port:
