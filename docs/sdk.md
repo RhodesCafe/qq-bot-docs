@@ -32,7 +32,7 @@ sidebar: auto
 [Masuda.Net](https://github.com/ssccinng/Masuda.Net) | ssccinng | 14 | MIT |
 [MyBot(.Net 6)](https://github.com/Chianne1025/QQChannelFramework) | Chianne1025 | 75 | Apache-2.0 |
 [QQChannelBot](https://github.com/Antecer/QQChannelBot) | Antece | 38 | MIT |
- [Sirius](https://gitee.com/sichuan-mirror-core-network/sirius-bot) | 镜芯* | 3 | AGPL-3.0 |
+ [Sirius](https://gitee.com/sichuan-mirror-core-network/sirius-bot) | 四川镜芯网络科技有限公司* | 3 | AGPL-3.0 |
 
  ## java
 
