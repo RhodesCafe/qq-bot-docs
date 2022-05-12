@@ -1,6 +1,6 @@
 # 罗德文档
 
-qq-bot内容合集，涵盖 文档/FAQ/SDK/资源。
+qq频道bot内容合集，涵盖 文档/FAQ/SDK/资源。
 
 基于[vuepress](https://vuepress.vuejs.org/zh/)构建。对应文档网站是 [https://qqbotdoc.rhodescafe.net/wiki/](https://qqbotdoc.rhodescafe.net/wiki/)
 
