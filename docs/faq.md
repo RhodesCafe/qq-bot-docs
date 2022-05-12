@@ -24,7 +24,7 @@ sidebar: auto
  ### 3 无法提审 (机器人审核中或功能配置与测试报告没有修改)
  
  - 请确保 [功能配置与提审](https://q.qq.com/bot/#/developer/publish-config)中 `功能配置` 与 `自测报告` 均有修改，`功能指令` 可点击编辑后原样保存，`自测报告`需要改变excel内容（哪怕加一个空格也可以）
- - 如果仍无法提审，可尝试修改 [资料卡设置](https://q.qq.com/bot/#/developer/data-card) 与 [机器人介绍](https://q.qq.com/bot/#/setting/bot-setting-detailed)
+ - 如仍无法提审，可尝试修改 [资料卡设置](https://q.qq.com/bot/#/developer/data-card) 与 [机器人介绍](https://q.qq.com/bot/#/setting/bot-setting-detailed)
 
  ### 4 有关提审的建议
  
