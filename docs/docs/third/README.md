@@ -14,5 +14,4 @@ next: ../other.html
 
 ## 文档
 
-
 [开源协议介绍](/docs/third/open_source_protocol.html)  
