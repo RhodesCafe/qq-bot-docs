@@ -37,7 +37,7 @@ sidebar: auto
  
  ### 6 沙箱环境无法接收私信消息
  
- - 目前沙箱环境不支持私信，需切换到正式环境进行开发
+ - 目前沙箱环境不支持私信，需切换到正式环境进行开发 [官方文档:私信消息](https://bot.q.qq.com/wiki/develop/api/gateway/direct_message.html#%E5%8F%91%E9%80%81%E6%97%B6%E6%9C%BA)
  
  ### 7 怎么重置私信
  
