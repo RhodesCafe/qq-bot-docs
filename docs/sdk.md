@@ -32,7 +32,6 @@ sidebar: auto
 [Masuda.Net](https://github.com/ssccinng/Masuda.Net) | ssccinng | 14 | MIT |
 [MyBot(.Net 6)](https://github.com/Chianne1025/QQChannelFramework) | Chianne1025 | 75 | Apache-2.0 |
 [QQChannelBot](https://github.com/Antecer/QQChannelBot) | Antece | 38 | MIT |
- [Sirius](https://gitee.com/sichuan-mirror-core-network/sirius-bot) | 四川镜芯网络科技有限公司* | 3 | AGPL-3.0 |
 
  ## java
 
@@ -58,3 +57,9 @@ sidebar: auto
 | ------- |:----:| ----:| -------- |
 [qq.py](https://github.com/foxwhite25/qq.py) | foxwhite25 | 43 | MIT |
 [OlivOS](https://github.com/OlivOS-Team/OlivOS) | OlivOS-Team* | 28 | AGPL-3.0 |
+
+ ## 易
+ 
+ | 项目地址 | 作者 | star | 开源协议 |
+ | ------- |:----:| ----:| -------- |
+ [Sirius](https://gitee.com/sichuan-mirror-core-network/sirius-bot) | 四川镜芯网络科技有限公司* | 3 | AGPL-3.0 |
