@@ -25,6 +25,7 @@ sidebar: auto
  
  - 请确保 [功能配置与提审](https://q.qq.com/bot/#/developer/publish-config)中 `功能配置` 与 `自测报告` 均有修改，`功能指令` 可点击编辑后原样保存，`自测报告`需要改变excel内容（哪怕加一个空格也可以）
  - 如仍无法提审，可尝试修改 [资料卡设置](https://q.qq.com/bot/#/developer/data-card) 与 [机器人介绍](https://q.qq.com/bot/#/setting/bot-setting-detailed)
+ - 在解决该问题后，如果觉得faq描述有误，可在[该帖子](https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=WEhLR&appChannel=share&contentID=MQ2w&businessType=2&from=246610&biz=ka&shareSource=5)下反馈，这将有助于文档的完善
 
  ### 4 有关提审的建议
  
