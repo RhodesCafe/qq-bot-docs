@@ -3,7 +3,7 @@ module.exports = {
     title: '罗德文档',
     description: '共建良好开发生态',
     head: [
-        ['link', {rel: 'icon', href: '/rdoc.ico.ico'}],
+        ['link', {rel: 'icon', href: '/rdoc.ico'}],
     ],
     themeConfig: {
         nav: [
@@ -53,7 +53,7 @@ module.exports = {
             ]
         },
         lastUpdated: '上次更新',
-        logo: '/rdoc.ico.png',
+        logo: '/rdoc.ico',
         repo: 'RhodesCafe/qq-bot-docs',
         repoLabel: 'Github',
         editLinks: true,
