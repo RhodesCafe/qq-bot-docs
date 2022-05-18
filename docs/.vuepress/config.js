@@ -29,7 +29,8 @@ module.exports = {
                     title: '第三方',
                     path: '/docs/third/',
                     children: [
-                        ['/docs/third/open_source_protocol.html', '开源协议简介']
+                        ['/docs/third/open_source_protocol.html', '开源协议简介'],
+                        ['/docs/third/domains.html', '顶级域名一览']
                     ]
                 },
                 ['/docs/other.html', '其他']
