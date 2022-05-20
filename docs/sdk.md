@@ -28,38 +28,37 @@ sidebar: auto
 
 | 项目地址 | 作者 | star | 开源协议 |
 | ------- |:----:| ----:| -------- |
-[QBot4Sharp](https://github.com/heerheer/QBot4Sharp) | heerheer | 2 | GPL-3.0 |
-[Masuda.Net](https://github.com/ssccinng/Masuda.Net) | ssccinng | 14 | MIT |
-[MyBot(.Net 6)](https://github.com/Chianne1025/QQChannelFramework) | Chianne1025 | 75 | Apache-2.0 |
-[QQChannelBot](https://github.com/Antecer/QQChannelBot) | Antece | 38 | MIT |
+| [QBot4Sharp](https://github.com/heerheer/QBot4Sharp) | heerheer | 2 | GPL-3.0 |
+| [Masuda.Net](https://github.com/ssccinng/Masuda.Net) | ssccinng | 14 | MIT |
+| [MyBot(.Net 6)](https://github.com/Chianne1025/QQChannelFramework) | Chianne1025 | 75 | Apache-2.0 |
+| [QQChannelBot](https://github.com/Antecer/QQChannelBot) | Antece | 38 | MIT |
 
  ## java
 
 | 项目地址 | 作者 | star | 开源协议 |
 | ------- |:----:| ----:| -------- |
-[qq-official-bot-sdk](https://github.com/xiaoye-bot/qq-official-bot-sdk) | xiaoye-bot* | 23 | GPL-3.0 |
+| [qq-official-bot-sdk](https://github.com/xiaoye-bot/qq-official-bot-sdk) | xiaoye-bot* | 23 | GPL-3.0 |
 
  ## kotlin
 
 | 项目地址 | 作者 | star | 开源协议 |
 | ------- |:----:| ----:| -------- |
-[simbot-component-tencent-guild](https://github.com/simple-robot/simbot-component-tencent-guild) | simple-robot* | 3 | LGPL-3.0
+| [simbot-component-tencent-guild](https://github.com/simple-robot/simbot-component-tencent-guild) | simple-robot* | 3 | LGPL-3.0
 
  ## nodejs/ts
 
 | 项目地址 | 作者 | star | 开源协议 |
 | ------- |:----:| ----:| -------- |
-[qq-guild-sdk](https://github.com/NWYLZW/qq-guild-sdk) | NWYLZW | 24 | NONE |
+| [qq-guild-sdk](https://github.com/NWYLZW/qq-guild-sdk) | NWYLZW | 24 | NONE |
 
  ## python
 
 | 项目地址 | 作者 | star | 开源协议 |
 | ------- |:----:| ----:| -------- |
-[qq.py](https://github.com/foxwhite25/qq.py) | foxwhite25 | 43 | MIT |
-[OlivOS](https://github.com/OlivOS-Team/OlivOS) | OlivOS-Team* | 28 | AGPL-3.0 |
+| [qq.py](https://github.com/foxwhite25/qq.py) | foxwhite25 | 43 | MIT |
 
  ## 易
  
- | 项目地址 | 作者 | star | 开源协议 |
- | ------- |:----:| ----:| -------- |
- [Sirius](https://gitee.com/sichuan-mirror-core-network/sirius-bot) | 四川镜芯网络科技有限公司* | 3 | AGPL-3.0 |
+| 项目地址 | 作者 | star | 开源协议 |
+| ------- |:----:| ----:| -------- |
+| [Sirius](https://gitee.com/sichuan-mirror-core-network/sirius-bot) | 四川镜芯网络科技有限公司* | 3 | AGPL-3.0 |
