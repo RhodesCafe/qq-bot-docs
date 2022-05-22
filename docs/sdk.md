@@ -4,6 +4,7 @@ sidebar: auto
 ---
 
  ## 官方
+*官方提供的SDK，其功能为简化ws和api对接，如想有更加流畅的开发体验，请选择第三方SDK*
 
 [Node SDK](https://bot.q.qq.com/wiki/develop/nodesdk/)  
 [Python SDK](https://bot.q.qq.com/wiki/develop/pythonsdk/)  
