@@ -28,7 +28,7 @@ sidebar: auto
 
 | 项目地址 | 作者 | star | 开源协议 |
 | ------- |:----:| ----:| -------- |
-| [QBot4Sharp](https://github.com/heerheer/QBot4Sharp) | heerheer | 2 | GPL-3.0 |
+| [QBot4Sharp](https://github.com/heerheer/QBot4Sharp) | heerheer | 3 | GPL-3.0 |
 | [Masuda.Net](https://github.com/ssccinng/Masuda.Net) | ssccinng | 14 | MIT |
 | [MyBot(.Net 6)](https://github.com/Chianne1025/QQChannelFramework) | Chianne1025 | 77 | Apache-2.0 |
 | [QQChannelBot](https://github.com/Antecer/QQChannelBot) | Antece | 38 | MIT |
