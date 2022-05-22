@@ -56,6 +56,7 @@ sidebar: auto
 | 项目地址 | 作者 | star | 开源协议 |
 | ------- |:----:| ----:| -------- |
 | [qq.py](https://github.com/foxwhite25/qq.py) | foxwhite25 | 45 | MIT |
+| [qg_botsdk](https://github.com/GLGDLY/qg_botsdk) | GLGDLY | 0 | MIT |
 
  ## 易
  
