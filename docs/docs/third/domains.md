@@ -2,6 +2,10 @@
 title: 顶级域名一览
 ---
 
+::: tip
+本文档由站长提供，如内容有误，请直接[联系站长](/about/contact.html#反馈)
+:::
+
 以下为在[通用顶级域](https://zh.wikipedia.org/zh-cn/%E9%80%9A%E7%94%A8%E9%A0%82%E7%B4%9A%E5%9F%9F)与[国家和地区顶级域](https://zh.wikipedia.org/zh-cn/%E5%9C%8B%E5%AE%B6%E5%92%8C%E5%9C%B0%E5%8D%80%E9%A0%82%E7%B4%9A%E5%9F%9F)中收集的域名，格式为json
 
 ```json
