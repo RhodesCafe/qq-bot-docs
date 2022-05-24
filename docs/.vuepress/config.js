@@ -25,6 +25,7 @@ module.exports = {
         sidebar: {
             '/docs/': [
                 ['/docs/', '官方'],
+                ['/docs/guide/', '教程'],
                 {
                     title: '第三方',
                     path: '/docs/third/',

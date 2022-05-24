@@ -1,6 +1,6 @@
 ---
 title: 第三方文档
-prev: /docs/
+prev: ../guide/
 next: ../other.html
 ---
 

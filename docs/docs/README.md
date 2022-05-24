@@ -1,6 +1,6 @@
 ---
 title: 官方文档
-next: ./third/
+next: ./guide/
 ---
 
  ## 文档
