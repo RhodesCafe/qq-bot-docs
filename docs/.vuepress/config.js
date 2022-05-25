@@ -88,16 +88,17 @@ module.exports = {
                         },
                     },
                 },
-            ], [
-            'vuepress-plugin-right-anchor',
-            {
-                showDepth: 1,
-                expand: {
-                    trigger: 'hover',
-                    clickModeDefaultOpen: true,
+            ],
+            [
+                'vuepress-plugin-right-anchor',
+                {
+                    showDepth: 1,
+                    expand: {
+                        trigger: 'hover',
+                        clickModeDefaultOpen: true,
+                    },
                 },
-            },
-        ],
+            ],
         ],
     markdown:
         {
