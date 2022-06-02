@@ -54,6 +54,10 @@ sidebar: auto
  
  - 0:00 - 6:00
  
+ ### 7 图片上传大小限制
+ 
+ - 3m(url上传)
+ 
  ## Python SDK (官方)
  
  ###  1 AttributeError: module 'qqbot' has no attribute 'Token'
