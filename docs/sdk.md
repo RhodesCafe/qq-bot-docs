@@ -56,11 +56,11 @@ sidebar: auto
 
 | 项目地址 | 作者 | star | 开源协议 |
 | ------- |:----:| ----:| -------- |
-| [qq.py](https://github.com/foxwhite25/qq.py) | foxwhite25 | 46 | MIT |
+| [qq.py](https://github.com/foxwhite25/qq.py) | foxwhite25 | 47 | MIT |
 | [qg_botsdk](https://github.com/GLGDLY/qg_botsdk) | GLGDLY | 9 | MIT |
 
  ## 易
  
 | 项目地址 | 作者 | star | 开源协议 |
 | ------- |:----:| ----:| -------- |
-| [Sirius](https://gitee.com/sichuan-mirror-core-network/sirius-bot) | 四川镜芯网络科技有限公司* | 48 | AGPL-3.0 |
+| [Sirius](https://gitee.com/sichuan-mirror-core-network/sirius-bot) | 四川镜芯网络科技有限公司* | 53 | AGPL-3.0 |
