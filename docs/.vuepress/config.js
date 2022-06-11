@@ -1,7 +1,7 @@
 module.exports = {
     base: '/wiki/',
     title: '罗德文档',
-    description: '共建良好开发生态',
+    description: 'Nothing Here',
     head: [
         ['link', {rel: 'icon', href: '/rdoc.ico'}],
     ],
