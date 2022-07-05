@@ -30,15 +30,15 @@ sidebar: auto
 | 项目地址 | 作者 | star | 开源协议 |
 | ------- |:----:| ----:| -------- |
 | [QBot4Sharp](https://github.com/heerheer/QBot4Sharp) | heerheer | 3 | GPL-3.0 |
-| [Masuda.Net](https://github.com/ssccinng/Masuda.Net) | ssccinng | 14 | MIT |
-| [MyBot(.Net 6)](https://github.com/Chianne1025/QQChannelFramework) | Chianne1025 | 77 | Apache-2.0 |
+| [Masuda.Net](https://github.com/ssccinng/Masuda.Net) | ssccinng | 15 | MIT |
+| [MyBot(.Net 6)](https://github.com/Chianne1025/QQChannelFramework) | Chianne1025 | 79 | Apache-2.0 |
 | [QQChannelBot](https://github.com/Antecer/QQChannelBot) | Antece | 38 | MIT |
 
  ## java
 
 | 项目地址 | 作者 | star | 开源协议 |
 | ------- |:----:| ----:| -------- |
-| [qq-official-bot-sdk](https://github.com/xiaoye-bot/qq-official-bot-sdk) | xiaoye-bot* | 24 | GPL-3.0 |
+| [qq-official-bot-sdk](https://github.com/xiaoye-bot/qq-official-bot-sdk) | xiaoye-bot* | 26 | GPL-3.0 |
 
  ## kotlin
 
@@ -56,11 +56,11 @@ sidebar: auto
 
 | 项目地址 | 作者 | star | 开源协议 |
 | ------- |:----:| ----:| -------- |
-| [qq.py](https://github.com/foxwhite25/qq.py) | foxwhite25 | 47 | MIT |
+| [qq.py](https://github.com/foxwhite25/qq.py) | foxwhite25 | 49 | MIT |
 | [qg_botsdk](https://github.com/GLGDLY/qg_botsdk) | GLGDLY | 9 | MIT |
 
  ## 易
  
 | 项目地址 | 作者 | star | 开源协议 |
 | ------- |:----:| ----:| -------- |
-| [Sirius](https://gitee.com/sichuan-mirror-core-network/sirius-bot) | 四川镜芯网络科技有限公司* | 53 | AGPL-3.0 |
+| [Sirius](https://gitee.com/sichuan-mirror-core-network/sirius-bot) | 四川镜芯网络科技有限公司* | 63 | AGPL-3.0 |

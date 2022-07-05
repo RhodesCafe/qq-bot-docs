@@ -17,4 +17,4 @@ sidebar: auto
 | 项目地址 | 作者 | star | 开源协议 |
 | ------- |:----:| ----:|:-------:|
 | [值班小助理](https://github.com/tencent-connect/bot-onduty) | tencent-connect* | 5 | MIT |
-| [象棋大师](https://github.com/wzpan/chinese-chess-bot) | wzpan | 7 | View |
+| [象棋大师](https://github.com/wzpan/chinese-chess-bot) | wzpan | 8 | View |
