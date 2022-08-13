@@ -32,7 +32,7 @@ sidebar: auto
 | [QBot4Sharp](https://github.com/heerheer/QBot4Sharp) | heerheer | 3 | GPL-3.0 |
 | [Masuda.Net](https://github.com/ssccinng/Masuda.Net) | ssccinng | 17 | MIT |
 | [MyBot(.Net 6)](https://github.com/Chianne1025/QQChannelFramework) | Chianne1025 | 79 | Apache-2.0 |
-| [QQChannelBot](https://github.com/Antecer/QQChannelBot) | Antece | 38 | MIT |
+| [QQChannelBot](https://github.com/Antecer/QQChannelBot) | Antece | 40 | MIT |
 
  ## java
 
@@ -44,23 +44,23 @@ sidebar: auto
 
 | 项目地址 | 作者 | star | 开源协议 |
 | ------- |:----:| ----:| -------- |
-| [simbot-component-tencent-guild](https://github.com/simple-robot/simbot-component-tencent-guild) | simple-robot* | 4 | LGPL-3.0
+| [simbot-component-tencent-guild](https://github.com/simple-robot/simbot-component-tencent-guild) | simple-robot* | 5 | LGPL-3.0
 
  ## nodejs/ts
 
 | 项目地址 | 作者 | star | 开源协议 |
 | ------- |:----:| ----:| -------- |
-| [qq-guild-sdk](https://github.com/NWYLZW/qq-guild-sdk) | NWYLZW | 24 | NONE |
+| [qq-guild-sdk](https://github.com/NWYLZW/qq-guild-sdk) | NWYLZW | 25 | NONE |
 
  ## python
 
 | 项目地址 | 作者 | star | 开源协议 |
 | ------- |:----:| ----:| -------- |
-| [qq.py](https://github.com/foxwhite25/qq.py) | foxwhite25 | 49 | MIT |
-| [qg_botsdk](https://github.com/GLGDLY/qg_botsdk) | GLGDLY | 9 | MIT |
+| [qq.py](https://github.com/foxwhite25/qq.py) | foxwhite25 | 51 | MIT |
+| [qg_botsdk](https://github.com/GLGDLY/qg_botsdk) | GLGDLY | 8 | MIT |
 
  ## 易
  
 | 项目地址 | 作者 | star | 开源协议 |
 | ------- |:----:| ----:| -------- |
-| [Sirius](https://gitee.com/sichuan-mirror-core-network/sirius-bot) | 四川镜芯网络科技有限公司* | 63 | AGPL-3.0 |
+| [Sirius](https://gitee.com/sichuan-mirror-core-network/sirius-bot) | 四川镜芯网络科技有限公司* | 70 | AGPL-3.0 |
