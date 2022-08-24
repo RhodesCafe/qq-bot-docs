@@ -1,7 +1,7 @@
 module.exports = {
     base: '/wiki/',
     title: '罗德文档',
-    description: 'Nothing Here',
+    description: '高效摸鱼指南',
     head: [
         ['link', {rel: 'icon', href: '/rdoc.ico'}],
     ],
@@ -31,7 +31,8 @@ module.exports = {
                     path: '/docs/third/',
                     children: [
                         ['/docs/third/open_source_protocol.html', '开源协议简介'],
-                        ['/docs/third/domains.html', '顶级域名一览']
+                        ['/docs/third/domains.html', '顶级域名一览'],
+                        ['/docs/third/apply_md.html', '如何申请md']
                     ]
                 },
                 ['/docs/other.html', '其他']
