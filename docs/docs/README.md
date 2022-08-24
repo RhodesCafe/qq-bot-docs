@@ -8,7 +8,8 @@ next: ./guide/
 [Bot文档](https://bot.q.qq.com/wiki/)  
 [Bot后台](https://q.qq.com/)  
 [小程序文档](https://q.qq.com/wiki/)  
-[开发者赋能直播课堂](/resource/file/creator-ability-lesson.html) 
+[开发者赋能直播课堂](/resource/file/creator-ability-lesson.html)  
+[模板消息(md)申请配置指引](https://docs.qq.com/doc/DS1Vyb1hxenVVSFNt)
 
  ## 零基础开发机器人
  
@@ -27,4 +28,6 @@ next: ./guide/
  
  ## 申请收集表
 
-[Bot/小程序接口申请](https://docs.qq.com/form/page/DQWNQb3RQeVJYaGZl)
+[Bot/小程序接口申请](https://docs.qq.com/form/page/DQWNQb3RQeVJYaGZl)  
+[模板消息(md)功能开通申请（已关闭）](https://wj.qq.com/s2/10597499/9df8/)  
+[模板消息(md)能力问题与建议反馈](https://wj.qq.com/s2/10612837/cd00/)

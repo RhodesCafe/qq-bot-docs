@@ -9,5 +9,3 @@ features:
 - title: 资源
   details: 一个优秀的开发者，势必离不开优秀的工具和接口
 ---
-
-HOMEPAGE
